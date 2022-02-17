@@ -48,7 +48,7 @@
 <!-- - [Carrito reactivo en Angular con RxJS](https://www.sebastianbauer.dev/2019/12/11/carrito-reactivo-con-angular-y-rxjs/) -->
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://lucasdiaz.dev
+[website]: https://lucasdiaz.netlify.app
 [twitter]: https://twitter.com/LucasGDiaz
 [instagram]: https://instagram.com/lucasgustavodiaz
 [linkedin]: https://www.linkedin.com/in/lucas-gustavo-diaz/
