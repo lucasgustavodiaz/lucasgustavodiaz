@@ -1,7 +1,7 @@
 ### Hola, Soy Lucas Diaz 👋
 
 ## Fullstack Developer en Angular, NodeJS y Python!
-- 🎓 Profesor en la facultad UNLPAM de Santa Rosa (La Pampa) 
+- 🎓 Profesor en la Universidad Nacional de La Pampa 
 - 🔭 Actualmente trabajo como Desarrollador Fullstack en Angular y NodeJS!
 - 🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣
 - 👯 Me gusta colaborar en proyectos Open Source y/o hacer de mentor para quien lo necesite
