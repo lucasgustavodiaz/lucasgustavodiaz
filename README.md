@@ -1,11 +1,16 @@
-### Hola, Soy Lucas Diaz 👋
+# Hola, soy Lucas Diaz 👋
 
-## Fullstack Developer en Angular, NodeJS y Python!
 - 🎓 Profesor en la Universidad Nacional de La Pampa 
 - 🔭 Actualmente trabajo como Desarrollador Fullstack en Angular y NodeJS!
 - 🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤣
 - 👯 Me gusta colaborar en proyectos Open Source y/o hacer de mentor para quien lo necesite
 - ⚡ Fun fact: Me encantan los Videojuegos!
+
+<br />
+
+![lucasgustavodiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgustavodiaz&show_icons=true&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgustavodiaz&langs_count=5&theme=cobalt&layout=compact)
 
 ### Encuentrenme en:
 
@@ -15,6 +20,8 @@
 [<img align="left" alt="lucasgustavodiaz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+
 
 ### Lenguajes y Herramientas:
 
@@ -35,8 +42,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
 
 <!-- --- -->
 
