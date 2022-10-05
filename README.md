@@ -1,4 +1,4 @@
-# Hola, soy Lucas Diaz 👋
+# Hola, soy Lucas Diaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
 - 🎓 Profesor en la Universidad Nacional de La Pampa 
 - 🔭 Actualmente trabajo como Desarrollador Fullstack en Angular y NodeJS!
@@ -12,12 +12,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgustavodiaz&langs_count=5&theme=cobalt&layout=compact)
 
-### Encuentrenme en:
+### Encontrame en:
 
-[<img align="left" alt="lucasgustavodiaz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="lucasgustavodiaz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="lucasgustavodiaz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="lucasgustavodiaz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="lucasgustavodiaz" width="32px" src="https://openmoji.org/data/color/svg/1F30F.svg" />][website]
+[<img align="left" alt="lucasgustavodiaz | Twitter" width="32px" src="https://openmoji.org/data/color/svg/E040.svg" />][twitter]
+[<img align="left" alt="lucasgustavodiaz | LinkedIn" width="32px" src="https://openmoji.org/data/color/svg/E046.svg" />][linkedin]
+[<img align="left" alt="lucasgustavodiaz | Instagram" width="32px" src="https://openmoji.org/data/color/svg/E043.svg" />][instagram]
 
 <br />
 
